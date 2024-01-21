@@ -41,7 +41,8 @@ Custom Css
 @media only screen and (max-width: 1000px) {
     .card-img-top{
 
-        height: 300px;
+        height: auto;
+    
         
     }
     .my-div{
