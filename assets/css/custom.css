@@ -1,0 +1,76 @@
+/*
+Custom Css
+*/
+.jmhall_logo{
+    height: 60px;
+    width:  60px;
+
+}
+
+
+.img-card{
+    padding: 40px;
+    background-color: brown;
+    height: auto;
+    width: auto;
+    border-radius: 0.25rem;
+
+}
+
+.img-card2{
+    padding: 20px;
+    background-color: brown;
+    height: 250px;
+    width: auto;
+    border-radius: 0.25rem;
+
+}
+
+.insulin_details{
+    height: 250px;
+    width: auto;
+
+}
+
+.card-img-top{
+    height: 300px;
+    
+}
+
+
+@media only screen and (max-width: 1000px) {
+    .card-img-top{
+
+        height: 300px;
+        
+    }
+    .img-card2{
+        padding: 20px;
+        background-color: brown;
+        height: 250px;
+        width: 250px;
+        border-radius: 0.25rem;
+    
+    }
+  }
+
+.brand-img{
+    height: 60px;
+    width: 60px;
+
+
+}
+
+.about_img{
+    height: 400px;
+    width: auto;
+
+}
+
+
+
+
+
+
+
+
